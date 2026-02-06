@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/aionyx02/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aionyx02/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+## String
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/aionyx02/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
