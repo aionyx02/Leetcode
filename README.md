@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/aionyx02/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aionyx02/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/aionyx02/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
