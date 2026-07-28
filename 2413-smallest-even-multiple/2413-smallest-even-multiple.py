@@ -1,6 +1,5 @@
-class Solution(object):
-    def smallestEvenMultiple(self, n):
-        if n % 2 == 0: 
+class Solution:
+    def smallestEvenMultiple(self, n: int) -> int:
+        if n % 2 == 0:
             return n
         return n * 2
-        
