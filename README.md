@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aionyx02/Leetcode/tree/master/0001-two-sum) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aionyx02/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3379-transformed-array](https://github.com/aionyx02/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aionyx02/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/aionyx02/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aionyx02/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aionyx02/Leetcode/tree/master/0050-powx-n) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aionyx02/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aionyx02/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/aionyx02/Leetcode/tree/master/2235-add-two-integers) |
@@ -115,14 +118,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -131,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -139,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aionyx02/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
