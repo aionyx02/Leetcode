@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/aionyx02/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1927-sum-game](https://github.com/aionyx02/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aionyx02/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1927-sum-game](https://github.com/aionyx02/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aionyx02/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2785-sort-vowels-in-a-string](https://github.com/aionyx02/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aionyx02/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aionyx02/Leetcode/tree/master/0050-powx-n) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aionyx02/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aionyx02/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aionyx02/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aionyx02/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
