@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/aionyx02/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aionyx02/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aionyx02/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3379-transformed-array](https://github.com/aionyx02/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aionyx02/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aionyx02/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aionyx02/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/aionyx02/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aionyx02/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aionyx02/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aionyx02/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aionyx02/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
