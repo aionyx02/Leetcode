@@ -2,11 +2,11 @@ class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) return 1;
-        auto result = minmax_element(nums.begin(), nums.end());
-        int min_idx = distance(nums.begin(), result.first);
-        int max_idx = distance(nums.begin(), result.second);
-        if (min_idx > max_idx) swap(min_idx, max_idx);
-        return min({max_idx + 1, min_idx + n - max_idx + 1, n - min_idx});
+        auto [min_it, max_it] = minmax_element(nums.begin(), nums.end());
+        int i = min_it - nums.begin();
+        int j = max_it - nums.begin();
+        
+        if (i > j) swap(i, j);
+        return min({j + 1, n - i, i + 1 + n - j});
     }
 };
