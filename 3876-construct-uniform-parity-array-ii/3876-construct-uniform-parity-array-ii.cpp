@@ -7,13 +7,13 @@ public:
 
         int odd = 0;
         int min_odd = INT_MAX, min_even = INT_MAX;
-        for (int x : nums1) {
-            if (x % 2 == 0) {
-                min_even = min(min_even, x);
-            }
-            else {
+        for (const int &x : nums1) {
+            if (x & 1) {
                 odd += 1;
                 min_odd = min(min_odd, x);
+            }
+            else {
+                min_even = min(min_even, x);
             }
         }
 
