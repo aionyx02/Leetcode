@@ -1,6 +1,10 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
+
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         int odd = 0;
         int min_odd = INT_MAX, min_even = INT_MAX;
         for (int x : nums1) {
