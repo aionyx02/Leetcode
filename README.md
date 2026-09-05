@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aionyx02/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1927-sum-game](https://github.com/aionyx02/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aionyx02/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aionyx02/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/aionyx02/Leetcode/tree/master/1872-stone-game-viii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aionyx02/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/aionyx02/Leetcode/tree/master/0050-powx-n) |
 ## Minimax
 |  |
