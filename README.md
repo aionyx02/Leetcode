@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aionyx02/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aionyx02/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1872-stone-game-viii](https://github.com/aionyx02/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aionyx02/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/aionyx02/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aionyx02/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aionyx02/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
