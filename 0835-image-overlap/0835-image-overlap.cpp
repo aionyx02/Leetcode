@@ -18,7 +18,7 @@ public:
                         }
                     }
                 }
-                ans = std::max(ans, current_overlap);
+                ans = max(ans, current_overlap);
             }
         }
         return ans;
