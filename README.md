@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aionyx02/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aionyx02/Leetcode/tree/master/0051-n-queens) |
+| [0118-pascals-triangle](https://github.com/aionyx02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0835-image-overlap](https://github.com/aionyx02/Leetcode/tree/master/0835-image-overlap) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1872-stone-game-viii](https://github.com/aionyx02/Leetcode/tree/master/1872-stone-game-viii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aionyx02/Leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/aionyx02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aionyx02/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/aionyx02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/aionyx02/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aionyx02/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
