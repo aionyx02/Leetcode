@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aionyx02/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aionyx02/Leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/aionyx02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aionyx02/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aionyx02/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aionyx02/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/aionyx02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/aionyx02/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/aionyx02/Leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aionyx02/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aionyx02/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aionyx02/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
