@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aionyx02/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aionyx02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0835-image-overlap](https://github.com/aionyx02/Leetcode/tree/master/0835-image-overlap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aionyx02/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1872-stone-game-viii](https://github.com/aionyx02/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aionyx02/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aionyx02/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aionyx02/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aionyx02/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aionyx02/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aionyx02/Leetcode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aionyx02/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aionyx02/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aionyx02/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aionyx02/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aionyx02/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/aionyx02/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aionyx02/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aionyx02/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aionyx02/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aionyx02/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/aionyx02/Leetcode/tree/master/1872-stone-game-viii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aionyx02/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aionyx02/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
