@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aionyx02/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/aionyx02/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aionyx02/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aionyx02/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1927-sum-game](https://github.com/aionyx02/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aionyx02/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aionyx02/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aionyx02/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aionyx02/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aionyx02/Leetcode/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aionyx02/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
