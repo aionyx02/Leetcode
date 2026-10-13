@@ -4,9 +4,7 @@ public:
         sort(nums.begin(), nums.end(), [](int &a, int &b) {
             return abs(a) > abs(b);
         });
-        for (int i : nums) {
-            cout << i;
-        }
+        
         long long ans = 0;
         int n = nums.size();
 
