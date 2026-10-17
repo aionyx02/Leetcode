@@ -6,6 +6,7 @@ public:
             sum += n % 10;
             n /= 10;
         }
+
         return sum;
     }
 
@@ -21,7 +22,6 @@ public:
             return sum < other.sum;
         }
     };
-
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
         vector<Item> arr(n);
@@ -31,7 +31,7 @@ public:
         sort(arr.begin(), arr.end());
 
         vector<bool> visited(n, false);
-        int swaps = 0;
+        int swaps;
 
         for (int i = 0; i < n; ++i) {
             if (visited[i] || arr[i].idx == i) {
@@ -40,15 +40,15 @@ public:
 
             int cyclesize = 0;
             int curr = i;
+
             while (!visited[curr]) {
                 visited[curr] = true;
-
                 curr = arr[curr].idx;
                 cyclesize++;
             }
 
             if (cyclesize > 1) {
-                swaps += (cyclesize - 1);
+                swaps += cyclesize - 1;
             }
         }
 
