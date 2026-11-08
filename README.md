@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aionyx02/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/aionyx02/Leetcode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/aionyx02/Leetcode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/aionyx02/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aionyx02/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aionyx02/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aionyx02/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/aionyx02/Leetcode/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/aionyx02/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/aionyx02/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aionyx02/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aionyx02/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/aionyx02/Leetcode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aionyx02/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aionyx02/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aionyx02/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aionyx02/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -315,12 +319,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/aionyx02/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/aionyx02/Leetcode/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/aionyx02/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aionyx02/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/aionyx02/Leetcode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/aionyx02/Leetcode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/aionyx02/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aionyx02/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/aionyx02/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aionyx02/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
